@@ -1,3 +1,7 @@
+demo page：https://stephanie1114.github.io/week2_PersonalWebsite/
+
+
+
 # 網頁切版直播班 Gulp 範例
 
 > 使用該專案 Gulp 時，就可以不用使用其他編譯工具編譯 SCSS 或是 JavaScript 囉。
